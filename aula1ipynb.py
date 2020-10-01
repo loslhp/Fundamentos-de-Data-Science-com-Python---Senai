@@ -14,7 +14,7 @@ Aula 1 do curso de fundamentos de ciência de dados com python na escola Senai
 * Declarção de variáveis
 * exemplo teste: a = 3, b = 3
 """
-
+## git teste
 a = 2
 b = 3
 
